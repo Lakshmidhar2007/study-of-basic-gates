@@ -1,4 +1,3 @@
-### study-of-basic-gates
 
 **AIM:** 
 
@@ -66,14 +65,43 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: LAKSHMIDHAR N  
+ RegisterNumber:  24900046
+
+  '''module exp1(a,b,f1,f2,f3,f4,f5,f6,f7);
+  
+  input a,b;
+  
+  output f1,f2,f3,f4,f5,f6,f7;
+  
+  assign f1=a&b;
+  
+  assign f2=a|b;
+  
+  assign f3=~a;
+  
+  assign f4=~f1;
+  
+  assign f5=~f2;
+  
+  assign f6=a^b;
+  
+  assign f7=~(a^b);
+  
+  endmodule'''
  
+
 **Logic symbol & Truthtable**
+![WhatsApp Image 2024-10-29 at 10 24 49_4e6ac95d](https://github.com/user-attachments/assets/760f9452-a2dc-4b13-9b92-6c1b9dca8e54)
 
 **RTL realization Output:** 
+![WhatsApp Image 2024-10-29 at 10 42 42_10696b7e](https://github.com/user-attachments/assets/7cb7c632-302a-4a71-8059-8d08f28377fa)
 
-**RTL**
+
+**TIMING WAVEFORM**
+![Screenshot (23)1](https://github.com/user-attachments/assets/7d38f40a-ea63-428a-91e1-7be87b21d2f3)
+
 
 **Result:**
-
+Thus the basic logic gates are studied and the truth tables are verified.
 
