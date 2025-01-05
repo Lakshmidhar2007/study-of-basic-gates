@@ -97,6 +97,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
  
 **Logic symbol & Truthtable**
+
 ![WhatsApp Image 2024-10-29 at 10 24 49_bb24b8fa](https://github.com/user-attachments/assets/f43123a2-33e8-4434-8a4b-56a4f87beb03)
 
 
@@ -106,9 +107,11 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **TIMING WAVEFORM**
+
 ![Screenshot (23)1](https://github.com/user-attachments/assets/59c2004a-039e-4da9-95fa-175f95f9f161)
 
 
 **Result:**
+
 Thus the basic logic gates are studied and the truth tables are verified.
 
